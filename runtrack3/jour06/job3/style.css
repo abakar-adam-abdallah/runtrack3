@@ -1,0 +1,13 @@
+body {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+#carreau {
+    background-color: #88c1d0;
+    width:19vw;
+    height: 90px;
+}
